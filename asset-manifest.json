@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/TextUtils-react/static/css/main.0f807bd3.chunk.css",
-    "main.js": "/TextUtils-react/static/js/main.ce51b990.chunk.js",
-    "main.js.map": "/TextUtils-react/static/js/main.ce51b990.chunk.js.map",
-    "runtime-main.js": "/TextUtils-react/static/js/runtime-main.e6f2b033.js",
-    "runtime-main.js.map": "/TextUtils-react/static/js/runtime-main.e6f2b033.js.map",
-    "static/js/2.088b7bfe.chunk.js": "/TextUtils-react/static/js/2.088b7bfe.chunk.js",
-    "static/js/2.088b7bfe.chunk.js.map": "/TextUtils-react/static/js/2.088b7bfe.chunk.js.map",
-    "static/js/3.32d4b411.chunk.js": "/TextUtils-react/static/js/3.32d4b411.chunk.js",
-    "static/js/3.32d4b411.chunk.js.map": "/TextUtils-react/static/js/3.32d4b411.chunk.js.map",
-    "index.html": "/TextUtils-react/index.html",
-    "static/css/main.0f807bd3.chunk.css.map": "/TextUtils-react/static/css/main.0f807bd3.chunk.css.map",
-    "static/js/2.088b7bfe.chunk.js.LICENSE.txt": "/TextUtils-react/static/js/2.088b7bfe.chunk.js.LICENSE.txt"
+    "main.css": "/Samarth21101999/TextUtils-react.git/static/css/main.0f807bd3.chunk.css",
+    "main.js": "/Samarth21101999/TextUtils-react.git/static/js/main.ce51b990.chunk.js",
+    "main.js.map": "/Samarth21101999/TextUtils-react.git/static/js/main.ce51b990.chunk.js.map",
+    "runtime-main.js": "/Samarth21101999/TextUtils-react.git/static/js/runtime-main.a7859d19.js",
+    "runtime-main.js.map": "/Samarth21101999/TextUtils-react.git/static/js/runtime-main.a7859d19.js.map",
+    "static/js/2.088b7bfe.chunk.js": "/Samarth21101999/TextUtils-react.git/static/js/2.088b7bfe.chunk.js",
+    "static/js/2.088b7bfe.chunk.js.map": "/Samarth21101999/TextUtils-react.git/static/js/2.088b7bfe.chunk.js.map",
+    "static/js/3.32d4b411.chunk.js": "/Samarth21101999/TextUtils-react.git/static/js/3.32d4b411.chunk.js",
+    "static/js/3.32d4b411.chunk.js.map": "/Samarth21101999/TextUtils-react.git/static/js/3.32d4b411.chunk.js.map",
+    "index.html": "/Samarth21101999/TextUtils-react.git/index.html",
+    "static/css/main.0f807bd3.chunk.css.map": "/Samarth21101999/TextUtils-react.git/static/css/main.0f807bd3.chunk.css.map",
+    "static/js/2.088b7bfe.chunk.js.LICENSE.txt": "/Samarth21101999/TextUtils-react.git/static/js/2.088b7bfe.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e6f2b033.js",
+    "static/js/runtime-main.a7859d19.js",
     "static/js/2.088b7bfe.chunk.js",
     "static/css/main.0f807bd3.chunk.css",
     "static/js/main.ce51b990.chunk.js"
