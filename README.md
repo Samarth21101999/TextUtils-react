@@ -1,6 +1,6 @@
 # TextUtils
  
-TextUtils is a webpage developed using reactjs. 
+TextUtils is a webpage developed using ReactJS. 
 
 ->It has functionality like word counter,
 
